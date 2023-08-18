@@ -12,11 +12,13 @@ In unserem längeren Projekt ist unser Ziel ein Spiel zu dritt entwickeln, weite
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
+- [ ] UnrealEngine installieren
+- [ ] Sich mit dem Code von UnrealEngine auseinander setzen
+- [ ] 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
+| UnrealEngine installieren | UnrealEngine  | UnrealEngine startet      |
 
 - [ ] ...
 - [ ] ...
