@@ -6,22 +6,33 @@ Sommerferien - Herbstferien - Weihnachtsferien
 
 ## Leit-Satz
 
-In unserem längeren Projekt ist unser Ziel ein Spiel zu dritt entwickeln, weitere planungen haben wir soweit noch nicht beschlossen ausser das wir mit Unreal engine arbeiten möchten.
+In meinem Projekt, vertiefe ich die Webapplikation, ich werde eine Website aufbauen und versuche dabei eine Plexus / After Effects animation einbinden. Um dies jedoch zu animieren erstelle ich erstmals ein 3D Model, und die Animation.
 
 ## Arbeitspakete für 25.08.2024
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] UnrealEngine installieren
-- [ ] Sich mit dem Code von UnrealEngine auseinander setzen
-- [ ] 
+
+- [ ] Dateien erstellen
+- [ ] Blender Download
+- [ ] After Effects Download
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
-| UnrealEngine installieren | UnrealEngine  | UnrealEngine startet      |
+| Blender Download | Starten  | Startet     |
+| After Effects | Starten  | Startet     |
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+## Arbeitspakete für 01.09.2023
+
+
+- [ ] Grundstrucktur der Website erstellen
+- [ ] Grob mit CSS alles anschaubar gestalten
+- [ ] Website via Github hosten
+
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Grundstrukturerstellt | VScode ansicht gestartet  |Grundstuktur ist ersichtlich  |
+| CSS grob verschöndert | VScode ansicht gestartet  | Alles sieht schon besser aus    |
+| Website via GitHub hosten | Linkeingabe | Man sieht die Website |
