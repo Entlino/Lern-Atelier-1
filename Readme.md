@@ -12,9 +12,9 @@ In meinem Projekt, vertiefe ich die Webapplikation. Ich werde eine Website aufba
 
 
 
-- [ ] Dateien erstellen
-- [ ] Blender Download
-- [ ] After Effects Download
+- [x] Dateien erstellen
+- [x] Blender Download
+- [x] After Effects Download
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
@@ -26,8 +26,8 @@ In meinem Projekt, vertiefe ich die Webapplikation. Ich werde eine Website aufba
 ## Arbeitspakete für 01.09.2023
 
 
-- [ ] Grundstrucktur der Website erstellen
-- [ ] Grob mit CSS alles anschaubar gestalten
+- [x] Grundstrucktur der Website erstellen
+- [x] Grob mit CSS alles anschaubar gestalten
 - [ ] Website via Github hosten
 
 
@@ -37,5 +37,16 @@ In meinem Projekt, vertiefe ich die Webapplikation. Ich werde eine Website aufba
 | CSS grob verschöndert | VScode ansicht gestartet  | Alles sieht schon besser aus    |
 | Website via GitHub hosten | Linkeingabe | Man sieht die Website |
 
+Heute habe ich damit begonnen wieder mit CSS zu programmieren. Am Anfang war es sehr schwer wieder rein zu kommen, dies habe ich gegen Ende des Tages dann endlich wieder geschafft. Ich habe damit begonnen ein grund Grid-Layout zu erstellen bei welchem ich viele schwierigkeiten hatte da ich nicht mehr wusste wie es geht und mir alles neu erlernen muss. Gegen schluss habe ich es jedoch geschafft, ich überlege mir nun ob ich das Layout auf ein FlexBox-Layout ändere.
 
-## Arbeitspakete für 08.09.2023
+
+## Arbeitspakete für 15.09.2023
+
+- [ ] Passendes Layout 
+- [ ] Blender Download
+- [ ] After Effects Download
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Blender Download | Starten  | Startet     |
+| After Effects | Starten  | Startet     |
