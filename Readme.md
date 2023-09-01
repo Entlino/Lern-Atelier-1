@@ -6,7 +6,7 @@ Sommerferien - Herbstferien - Weihnachtsferien
 
 ## Leit-Satz
 
-In meinem Projekt, vertiefe ich die Webapplikation, ich werde eine Website aufbauen und versuche dabei eine Plexus / After Effects animation einbinden. Um dies jedoch zu animieren erstelle ich erstmals ein 3D Model, und die Animation.
+In meinem Projekt, vertiefe ich die Webapplikation. Ich werde eine Website aufbauen und versuche dabei eine Plexus / After Effects animation einbinden. Um dies jedoch zu animieren erstelle ich erstmals ein 3D Model, und die Animation.
 
 ## Arbeitspakete für 25.08.2024
 
@@ -36,3 +36,6 @@ In meinem Projekt, vertiefe ich die Webapplikation, ich werde eine Website aufba
 | Grundstrukturerstellt | VScode ansicht gestartet  |Grundstuktur ist ersichtlich  |
 | CSS grob verschöndert | VScode ansicht gestartet  | Alles sieht schon besser aus    |
 | Website via GitHub hosten | Linkeingabe | Man sieht die Website |
+
+
+## Arbeitspakete für 08.09.2023
