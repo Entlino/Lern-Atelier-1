@@ -42,11 +42,27 @@ Heute habe ich damit begonnen wieder mit CSS zu programmieren. Am Anfang war es 
 
 ## Arbeitspakete für 15.09.2023
 
-- [ ] Passendes Layout 
-- [ ] Blender Download
-- [ ] After Effects Download
+- [x] Passendes Layout 
+- [x] Blender Download
+- [x] After Effects Download
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Blender Download | Starten  | Startet     |
 | After Effects | Starten  | Startet     |
+
+
+Heute habe ich mich hauptsächlich mit den beiden Layouts, Grid-Layout sowie Flexbox. Dabei bin ich nach längerer rechereche zum schluss gekommen das ich mein kleines Grundgerüst welches ich mir mit dem Grid-Layout aufgebaut habe nochmal neu mache und nun ein Flexbox-Layout verwenden werde. Dazu habe ich noch die beiden Apps heruntergeladen welche ich voraussichtlich verwenden möchte.
+
+
+##Arbeitspakete 22.09.2023
+
+- [ ] Flexbox erklär Website finden, oder Videos
+- [ ] Versuchen ein Grundwissen aufzubauen
+- [ ] Anhand einer neu erstellten Beispiel-Website ein bisschen üben
+
+
+| Vorbereitung             | Eingabe | Erwartete Ausgabe |
+| ------------------------ | ------- | ----------------- |
+| Beispielwebsite erstellen | Erstellung | Flexbox-Layout ist erkennbar |
+| Grundgerüst erstellt | Website anschauen | Flexboxen sind erkennbar |
