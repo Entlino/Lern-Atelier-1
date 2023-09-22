@@ -55,7 +55,7 @@ Heute habe ich damit begonnen wieder mit CSS zu programmieren. Am Anfang war es 
 Heute habe ich mich hauptsächlich mit den beiden Layouts, Grid-Layout sowie Flexbox. Dabei bin ich nach längerer rechereche zum schluss gekommen das ich mein kleines Grundgerüst welches ich mir mit dem Grid-Layout aufgebaut habe nochmal neu mache und nun ein Flexbox-Layout verwenden werde. Dazu habe ich noch die beiden Apps heruntergeladen welche ich voraussichtlich verwenden möchte.
 
 
-##Arbeitspakete 22.09.2023
+## Arbeitspakete 22.09.2023
 
 - [ ] Flexbox erklär Website finden, oder Videos
 - [ ] Versuchen ein Grundwissen aufzubauen
