@@ -1,73 +1,70 @@
-body {
-    background-color: #000000;
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-.menu {
-    display: none;
-    position: absolute;
-    top: 50px;
-    left: 0;
-    background-color: #000000;
-    width: 100%;
-    z-index: 1;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Raptor Studio</title>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">Raptor Studio</div>
+        <button class="nav-button" id="menu-button">Navigation</button>
+    </div>
 
-.menu ul {
-    list-style-type: none;
-    padding: 0;
-}
+    <div class="menu" id="menu">
+        <ul>
+            <li><a href="about.html">About us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="testversion.html">Testversion</a></li>
+        </ul>
+    </div>
 
-.menu li {
-    margin: 10px 0;
-}
+    <div class="content">
+        <h1>Willkommen bei Raptor Studio</h1>
+        <div class="story">
+            
+            <h1>
+                Lorem
+            </h1>
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, itaque eos architecto optio quis neque reiciendis eaque, non adipisci dignissimos quo id quod harum consectetur aperiam pariatur rerum sunt ratione!
+            </p>
 
-.menu a {
-    text-decoration: none;
-    color: #00BFFF;
-    font-size: 18px;
-    display: block;
-    padding: 10px;
-}
+            <h2>
+                Lorem
+            </h2>
 
-.header {
-    background-color: #000000;
-    position: fixed;
-    width: 100%;
-    height: 50px;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus nesciunt impedit suscipit in ab assumenda officia at consectetur quasi minus maiores illo vitae reiciendis accusamus id voluptate iure, autem exercitationem.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, delectus atque ab ea deserunt illum, aperiam adipisci possimus est quisquam sint sapiente maiores dignissimos? Rem nobis expedita neque a exercitationem?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus voluptatum officia provident, ratione obcaecati natus vitae neque. Corrupti hic ex voluptatibus voluptatem quisquam delectus, aliquam exercitationem esse dicta? Minima, aperiam.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta laborum, officia animi omnis voluptates deserunt ipsum eveniet magnam ipsa autem pariatur fuga itaque sequi delectus ab dolores dignissimos dolor cum.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora animi porro tenetur sit optio culpa rerum quis dolorem at dolores quaerat fugit rem ducimus, accusantium mollitia sunt expedita! Ratione.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero quia voluptatem officiis veritatis aperiam voluptatibus tempora numquam molestiae reprehenderit, error iste temporibus corporis laborum eum qui assumenda accusantium. Maxime, totam.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita esse inventore corrupti voluptate perspiciatis, repellendus aperiam accusamus ratione corporis fuga facere eaque reiciendis veniam ex cupiditate ducimus. Voluptates, repudiandae quibusdam!
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente incidunt assumenda harum possimus excepturi aspernatur quaerat cupiditate unde? Pariatur hic sint molestias quo quibusdam debitis reiciendis repudiandae quam libero aperiam.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Est minus soluta voluptatum excepturi omnis, et, earum qui vero officia totam incidunt sapiente perferendis dignissimos numquam vitae eaque deleniti quis eum.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam necessitatibus, dolor neque dolores nemo illum dolorum. Beatae quis laborum assumenda dolore nobis, deleniti similique itaque doloremque, voluptate voluptas asperiores dolor!
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum enim quas facere. Harum dolorum voluptas nemo omnis, porro delectus aperiam facere aspernatur, animi sed eaque nihil architecto exercitationem quidem adipisci.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam rem obcaecati quia modi quas, doloremque unde officiis voluptatum pariatur, sunt, doloribus aspernatur nam voluptate voluptas vitae voluptates omnis eligendi aliquam?
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores aspernatur id, perferendis magnam enim maiores. Amet voluptatum corrupti, reprehenderit itaque, sit, commodi minus quam vitae accusantium ea hic rem. Praesentium!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum odio tempora incidunt tempore sed nemo, facilis esse perferendis est culpa, nihil dolore debitis dolor harum, repudiandae id asperiores fugit eaque!
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem ipsam iusto hic! Natus reprehenderit expedita esse inventore nam! Temporibus quam quod necessitatibus ipsam aliquid similique ipsum at veniam rerum corporis?
 
-.logo {
-    color: #00BFFF;
-    font-size: 24px;
-    margin-left: 20px;
-    cursor: pointer;
-}
+            </p>
+            <p>
+                Sed non ligula id neque fringilla iaculis. Sed euismod, dui id venenatis iaculis, libero tellus facilisis ante, eu elementum purus felis eget ex. Nullam quis bibendum lectus. Suspendisse potenti. Cras viverra, quam nec vehicula bibendum, elit eros lacinia augue, a cursus justo neque vel justo. Fusce eu mi sit amet leo efficitur tristique nec a erat.
+            </p>
+        </div>
+    </div>
+    <script>
+        const menuButton = document.getElementById('menu-button');
+        const menu = document.getElementById('menu');
 
-.nav-button {
-    background-color: #00BFFF;
-    color: #000000;
-    padding: 10px 20px;
-    margin-right: 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.content {
-    margin: 50px 20px;
-    text-align: center;
-}
-
-.story {
-    color: #ffffff;
-    font-size: 18px;
-    line-height: 1.6;
-}
+        menuButton.addEventListener('click', () => {
+            menu.classList.toggle('open');
+        });
+    </script>
+</body>
+</html>
