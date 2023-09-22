@@ -70,7 +70,7 @@ Heute habe ich mich hauptsächlich mit den beiden Layouts, Grid-Layout sowie Fle
 
 ## Reflexion
 
-In den letzten Wochen habe ich ausschliesslich an meiner Website gearbeitet, da Github vorübergehen die Funktion deaktiviert hat Websiten zu hosten hab ich nur den jetztigen Code hochgeladen. Zuerst habe ich angefangen die Website per grid-layout zu programmieren, jedoch habe ich mich kurz vor Herbstferien dazu entschieden nun doch das Flexbox-Layout zu verwenden da dies besser für meine Idee geeignet ist. Nun habe ich den letzten Tag damit verbracht das Web-Design zu überarbeiten und neu zugestalten. Dies ist mir auch Erfolgreich gelungen da ich nun die Website um einiges schöner finde. 
+In den letzten Wochen habe ich ausschliesslich an meiner Website gearbeitet, da Github vorübergehen die Funktion deaktiviert hat Websiten zu hosten hab ich nur den jetztigen Code hochgeladen. Zuerst habe ich angefangen die Website per grid-layout zu programmieren, jedoch habe ich mich kurz vor Herbstferien dazu entschieden nun doch das Flexbox-Layout zu verwenden da dies besser für meine Idee geeignet ist. Nun habe ich den letzten Tag damit verbracht das Web-Design zu überarbeiten und neu zugestalten. Dies ist mir auch Erfolgreich gelungen da ich nun die Website um einiges schöner finde. Zudem habe ich noch am Ende eine Navigations Knopf erstellt mit welchem in in Zukunft dann zwischen den einzelnen Unterseiten hin und her wechseln kann.
 
 **VBV**
 Ich werde versuchen beim nächsten mal von Anfang an alles richtig zu Planen damit ich das nächste mal nicht wieder das ganze Layout am Ende ändern muss.
