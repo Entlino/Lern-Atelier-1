@@ -57,12 +57,20 @@ Heute habe ich mich hauptsächlich mit den beiden Layouts, Grid-Layout sowie Fle
 
 ## Arbeitspakete 22.09.2023
 
-- [ ] Flexbox erklär Website finden, oder Videos
-- [ ] Versuchen ein Grundwissen aufzubauen
-- [ ] Anhand einer neu erstellten Beispiel-Website ein bisschen üben
+- [x] Flexbox erklär Website finden, oder Videos
+- [x] Versuchen ein Grundwissen aufzubauen
+- [x] Anhand einer neu erstellten Beispiel-Website ein bisschen üben
 
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Beispielwebsite erstellen | Erstellung | Flexbox-Layout ist erkennbar |
 | Grundgerüst erstellt | Website anschauen | Flexboxen sind erkennbar |
+
+
+## Reflexion
+
+In den letzten Wochen habe ich ausschliesslich an meiner Website gearbeitet, da Github vorübergehen die Funktion deaktiviert hat Websiten zu hosten hab ich nur den jetztigen Code hochgeladen. Zuerst habe ich angefangen die Website per grid-layout zu programmieren, jedoch habe ich mich kurz vor Herbstferien dazu entschieden nun doch das Flexbox-Layout zu verwenden da dies besser für meine Idee geeignet ist. Nun habe ich den letzten Tag damit verbracht das Web-Design zu überarbeiten und neu zugestalten. Dies ist mir auch Erfolgreich gelungen da ich nun die Website um einiges schöner finde. 
+
+**VBV**
+Ich werde versuchen beim nächsten mal von Anfang an alles richtig zu Planen damit ich das nächste mal nicht wieder das ganze Layout am Ende ändern muss.
